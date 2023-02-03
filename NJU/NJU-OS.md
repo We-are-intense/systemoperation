@@ -4,3 +4,10 @@
 [JYY操作系统实验L0 实验基础配置方案](https://zhuanlan.zhihu.com/p/499141891)
 
 https://github.com/triumphalLiu/OSLabs
+
+
+
+[NJU PA2019 | 手摸手带你写一个虚拟机](https://zhuanlan.zhihu.com/p/413911195)
+
+[os-workbench-2022](https://github.com/xiaerfei/os-workbench-2022)
+
