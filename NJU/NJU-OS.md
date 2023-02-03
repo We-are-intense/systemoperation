@@ -11,3 +11,4 @@ https://github.com/triumphalLiu/OSLabs
 
 [os-workbench-2022](https://github.com/xiaerfei/os-workbench-2022)
 
+[NJU-ProjectN/ics-pa](https://github.com/NJU-ProjectN/ics-pa)
