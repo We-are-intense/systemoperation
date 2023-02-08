@@ -12,3 +12,7 @@ https://github.com/triumphalLiu/OSLabs
 [os-workbench-2022](https://github.com/xiaerfei/os-workbench-2022)
 
 [NJU-ProjectN/ics-pa](https://github.com/NJU-ProjectN/ics-pa)
+
+[NJU PA 实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/0.1.html)
+
+[【操作系统最佳实践】MIT 6.828 JOS与NJU ICS NEMU源码精读](https://knowledgehive.github.io/6.828/)
