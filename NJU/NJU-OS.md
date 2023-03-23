@@ -16,3 +16,5 @@ https://github.com/triumphalLiu/OSLabs
 [NJU PA 实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/0.1.html)
 
 [【操作系统最佳实践】MIT 6.828 JOS与NJU ICS NEMU源码精读](https://knowledgehive.github.io/6.828/)
+
+[操作系统：设计与实现 (2023 春季学期)](https://jyywiki.cn/OS/2023/)
