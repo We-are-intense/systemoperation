@@ -1,0 +1,6 @@
+- [MIT 6.S081 的 lab 的题解](https://github.com/KuangjuX/xv6-riscv-solution)
+- [MIT 6.S081: Operating System Engineering](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)
+- [MIT6.S081 翻译](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/lec01-introduction-and-examples/1.1-ke-cheng-jian-jie)
+- [MIT6.S081 Fall2020 翻译](http://xv6.dgs.zone/)
+- [MIT6.S081 实验翻译](https://tarplkpqsm.feishu.cn/docs/doccnBFsXFMsAr1oXEVsaT9E3Jg#)
+- [6.S081(大佬实验博客)](http://doraemonzzz.com/tags/6-S081/)
