@@ -1,2 +1,9 @@
-sum.out: sum.c thread.h
-	gcc -O2 $(CFLAGS) $<
+sum.out: sum.o
+	cc $(opt) -o sum.out sum.o
+
+sum.o: sum.c thread.h
+	cc $(opt) -c sum.c
+
+.PHONY : clean
+clean :
+	rm -rf *.out *.o

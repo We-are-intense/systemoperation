@@ -1,4 +1,4 @@
-stack.out: stack-probe.o thread.h
+stack.out: stack-probe.o
 	cc -o stack.out stack-probe.o
 
 stack-probe.o: stack-probe.c thread.h
