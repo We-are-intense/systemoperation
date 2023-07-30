@@ -29,7 +29,16 @@ void create(void *fn) {
     .status = T_LIVE,
     .entry = fn,
   };
-  pthread_create(&(tptr->thread), NULL, wrapper, tptr);
+
+  pthread_t thread_id;
+  int ret ,stacksize = 10 * 1024 * 1024; /*thread 堆栈设置为20K，stacksize以字节为单位。*/
+  pthread_attr_t attr;
+  ret = pthread_attr_init(&attr); /*初始化线程属性*/
+  assert(ret == 0);
+  ret = pthread_attr_setstacksize(&attr, stacksize);
+  assert(ret == 0);
+
+  pthread_create(&(tptr->thread), &attr, wrapper, tptr);
   ++tptr;
 }
 
