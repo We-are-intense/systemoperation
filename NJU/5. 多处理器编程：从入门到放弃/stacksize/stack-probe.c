@@ -1,4 +1,5 @@
 #include "thread.h"
+#include <stdint.h>
 
 void * volatile low[64];
 void * volatile high[64];
@@ -18,7 +19,7 @@ void probe(int T, int n) {
 }
 
 void Tprobe(int T) {
-  low[T] = (void *)-1;
+  low[T]  = (void *) - 1;
   high[T] = (void *)0;
   update_range(T, &T);
   probe(T, 0);
